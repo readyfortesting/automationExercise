@@ -7,7 +7,7 @@ import org.openqa.selenium.interactions.Actions;
 import pages.UI.TC01_Page;
 import utilities.ConfigReader;
 import utilities.Driver;
-public class US01_StepDef {
+public class TC01_StepDef {
 
     TC01_Page us01=new TC01_Page();
     Actions actions= new Actions(Driver.getDriver());

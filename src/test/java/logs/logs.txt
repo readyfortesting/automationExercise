@@ -1,0 +1,6 @@
+2022-06-19 23:36:45 INFO  Log:15 - ***********************        US10-TC01- START    **************************
+2022-06-19 23:36:45 INFO  Log:32 - Kullanici URl ye gider
+2022-06-19 23:36:45 ERROR Log:44 - Kullanıcı URL ye gıdemedı
+2022-06-19 23:36:48 INFO  Log:32 - Kulanici anasayfaya gider
+2022-06-19 23:36:48 WARN  Log:38 - Kullanici anasayfaya gidemedi
+
